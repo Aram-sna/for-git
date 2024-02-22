@@ -28,4 +28,4 @@ while True:
         print("your choice is wrong:! ")
         print("*" * 40 + "\n")
     
-    print("enjoy")
+    print("enjoy: ")
